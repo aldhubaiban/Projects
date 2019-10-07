@@ -1,0 +1,4 @@
+rippetoe,344.38,43.12
+walton,4250.00,750.00
+billerson,534.16,94.26
+cratchit,297.50,52.50
